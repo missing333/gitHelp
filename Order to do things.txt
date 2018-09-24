@@ -37,4 +37,9 @@ when ready to check in:
 
 
 
+OTHER COMMANDS:
+gitk		//opens a cool UI to view the repo
+git diff 	//view differences in files
+
+
 
