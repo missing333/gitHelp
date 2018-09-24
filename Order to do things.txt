@@ -1,0 +1,40 @@
+0.  before making any changes, right click in the directory and select: 
+	Open git BASH here
+0a. call:
+	git pull   // this pulls any changes stored on github.com to this directory.  NOW start making changes.  
+
+
+
+when ready to check in: 
+
+
+
+
+1.  ***if in doubt, call***
+	git status   // this will see if anything looks different.  
+
+2.  if any files are different, they will show up in red.  if so, call:
+	git add <filename1> 
+	or
+	git add *   //to add all files
+
+3.  this puts files in a 'staging' section.  not pushed to GIT.com yet!!
+	to add a comment to the push, call:
+	git commit -m "comment here"
+	*this is required! 
+
+4.  maybe do another 
+	git status  for funsies
+4.  when happy with everything to check in, call:
+	git push origin master
+	(enter username/pw when prompted)
+
+5.  done!  you are now uploaded to github.com.  
+
+
+
+
+
+
+
+
