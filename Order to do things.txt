@@ -32,6 +32,9 @@ when ready to check in:
 5.  done!  you are now uploaded to github.com.  
 
 
+//////////////////HELP!!!!!!!!////////////////////////
+undo all local changes, pull from github.com:
+	git reset --hard
 
 
 
