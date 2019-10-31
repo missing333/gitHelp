@@ -1,0 +1,21 @@
+Things that a good portfolio project will include: 
+
+1.  Authentication & Authorization. 
+    aka: Login screen
+        use Auth0, 3rd party library. 
+        admin role, user role
+        
+2.  Use a database
+    Create
+    Read
+    Update
+    Delete
+
+3.  Solve a business problem
+    no calculators/games
+    
+4.  Professional UI
+    
+5.  Organized code files & folders
+
+
