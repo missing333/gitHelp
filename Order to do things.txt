@@ -46,7 +46,9 @@ undo all local changes, pull from github.com:
 	git reset --hard
 
 
-
+///////////////
+take all local changes from computer and force GitHub repository to match it exactly: 
+	git push -u origin master --force
 
 
 OTHER COMMANDS:
